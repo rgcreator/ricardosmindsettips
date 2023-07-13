@@ -1,0 +1,28 @@
+li{
+display: inline;
+font-size: 32px;
+margin-left: 10px;
+}
+ul:hover{
+    border : 4px solid black;
+}
+a{
+border: 4px solid black;
+}
+a:hover{
+    border: 4px solid black;
+}
+p:hover{
+    border: 4px solid black;
+}
+a{
+    color: green;
+}
+main{
+    border: 1px solid black;
+    position: left;
+}
+article{
+    border: 1px solid black;
+    position: left;
+}
